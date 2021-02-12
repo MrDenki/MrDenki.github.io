@@ -1,2 +1,4 @@
-# MrDenki.github.io
-My first publication site
+# MrDenki
+My homework
+
+[First site](https://mrdenki.github.io/index.html "Описание")
