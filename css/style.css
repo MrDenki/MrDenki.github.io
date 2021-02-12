@@ -1,0 +1,51 @@
+.header{
+	font-size: 22px;
+	font-family: Tahoma;
+	margin: 50px auto;
+}
+
+.header span{
+	display: block;
+}
+
+.form-header, .section-header{
+	font-size: 20px;
+	font-weight: 900;
+	margin: 30px auto;
+}
+
+.form-section{
+	height: 295px;
+	border: 5px solid #3c3cdd;
+}
+
+.form-control{
+	height: 50px;
+	margin-bottom: 12px;
+	border: 1px solid black;
+	font-size: 18px;
+}
+
+.btn{
+	background: #3c3cdd;
+	font-size: 20px;
+	height: 60px;
+}
+
+.section{
+	margin-bottom: 30px;
+}
+
+.features{
+	font-size: 16px;
+	font-weight: 900;
+	margin: 20px auto;
+}
+
+.section-header{
+	margin-bottom: 90px;
+}
+
+.button-section{
+	margin-top: 60px;
+}
